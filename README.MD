@@ -15,7 +15,7 @@ This project develops a machine learning model to predict Autism Spectrum Disord
 
 ## Business and Data Understanding
 ### Stakeholder Profile
-![Creative Minds Logo](Creative Minds Logo.JPG___.jpg)  
+![Creative Minds Logo](<Creative Minds Logo.JPG___.jpg>)  
 **Creative Minds Autism Foundation** creates affordable paper-based solutions to improve motor skills in children with ASD.
 
 ### Key Challenges
@@ -28,7 +28,7 @@ This project develops a machine learning model to predict Autism Spectrum Disord
 ### Dataset Overview
 
 
-**Source**: [Autism Screening Data on Kaggle](https://Autism_Screening_Data_Combined.csv)  
+**Source**: [Autism Screening Data on Kaggle](<Autism_Screening_Data_Combined.csv>)  
 - 1,040 records (704 children)
 - 21 features including:
   - Demographic factors
@@ -38,7 +38,7 @@ This project develops a machine learning model to predict Autism Spectrum Disord
 
 ## Modeling Approach
 ### Model Comparison
-![Model Performance Metrics](https://Recall-precision..png)  
+![Model Performance Metrics](Recall-precision..png)  
 *Recall and precision across different algorithms*
 
 1. **Logistic Regression** (Interpretability focus)
@@ -46,16 +46,11 @@ This project develops a machine learning model to predict Autism Spectrum Disord
 3. **Random Forest** (Ensemble performance)
 4. **XGBoost** (Final tuned model)
 
-### Feature Importance
-![Top Predictive Features](https://example.com/path/to/feature-importance-plot.png)  
+### Feature Importance 
 *Key behavioral markers identified by the model*
 
 ## Evaluation Results
 ### Performance Metrics
-| Model | Recall | Precision | ROC-AUC |
-|-------|--------|-----------|---------|
-| Baseline | 72% | 68% | 0.75 |
-| Tuned | **89%** | **82%** | **0.87** |
  
 *Model discrimination capability*
 
@@ -65,7 +60,7 @@ The deployed model enables:
 - 💰 **30% reduction in unnecessary screenings**
 - 📊 **Personalized intervention matching**
 
-![Screening App Screenshot](https://Screening App Screenshot.JPG.jpg)  
+![Screening App Screenshot](<Screening Screenshot.JPG>)  
 *Prototype of the foundation's screening tool*
 
 * Next steps:
